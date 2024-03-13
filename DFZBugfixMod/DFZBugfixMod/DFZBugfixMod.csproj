@@ -68,6 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DFZBugfixMod.cs" />
+    <Compile Include="PatchGuidePlay.cs" />
+    <Compile Include="PatchMinimapStairOverEnemies.cs" />
+    <Compile Include="PatchProtectSoul.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
