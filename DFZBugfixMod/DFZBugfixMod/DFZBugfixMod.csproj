@@ -70,6 +70,7 @@
     <Compile Include="DFZBugfixMod.cs" />
     <Compile Include="PatchGuidePlay.cs" />
     <Compile Include="PatchMinimapStairOverEnemies.cs" />
+    <Compile Include="PatchPierceSkillWithSlantWay.cs" />
     <Compile Include="PatchProtectSoul.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
